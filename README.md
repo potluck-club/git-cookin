@@ -14,3 +14,17 @@ to be included in the final binding, as such we will discuss some (probably mult
 
 ## Steps 
 
+1. dump recipe text
+1. identify important sections
+.* title
+.* author
+.* tags
+.* ingredients
+.* steps
+.* estimated servings
+.* estimated time (total, elapsed, active)
+.* commentary and [flavor text]("not neccessarily about the actual flavor")
+.* required equipment (desired, necessary)
+.* date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
+1. move info into tex file 
+
