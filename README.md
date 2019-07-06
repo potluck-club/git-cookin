@@ -49,9 +49,9 @@ to be included in the final binding, as such we will discuss some (probably mult
   + liters
   + Tablespoons
   + Teaspoons
-  - pinches
-  - to taste
-  - pecs
+  - __pinches__
+  - __to taste__
+  - __pecs__
   + lbs
   + grams
   * 
@@ -59,7 +59,7 @@ to be included in the final binding, as such we will discuss some (probably mult
 * support for multiple page recipes, 
 * \# of columns to use in the style
   + 1
-  - 2
+  - __2__
 * how to organize the compilations 
 * naming conventions -- how do we make a fun hyperlinked index 
 * what sort of ways do we want to look up recipes in the final product?
