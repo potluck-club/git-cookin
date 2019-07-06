@@ -4,7 +4,7 @@
 ## Why 
 
 A repository dedicated to preserving the best flavors of 
-[potluck club]([] "known aliases GOT potluck, Naptime potluck"),
+[potluck club](#git-cookin "known aliases GOT potluck, Naptime potluck"),
 for likely eventual transoformation into some physical entity.
 
 ## Ingredients
