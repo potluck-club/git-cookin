@@ -18,3 +18,8 @@
 *.synctex.gz
 # Mac finder files and hidden folders
 .DS_Store
+
+# pdf files only in their proper places
+*.pdf
+!images/*.pdf
+!editions/*.pdf
