@@ -1,1 +1,3 @@
-# do we support different selections of recipes into a pdf?
+# collations
+Stores different selections of recipes here, 
+compiled pdfs will live over in editions.
