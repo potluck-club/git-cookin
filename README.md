@@ -1,6 +1,5 @@
 # git-cookin
-:man_cook::dash:
-:woman_cook::dash:
+:shallow_pan_of_food::plate_with_food::man_cook::woman_cook::dash:
 
 ## Why 
 
@@ -42,25 +41,25 @@ to be included in the final binding, as such we will discuss some (probably mult
 ## discussion of further requirements
 * must be able to compile individual recipes with minimal hassle
 * must have full list of dependencies to build recipes on their own
-* must figure out how to register approval -- what sort of criteria are important to get 
-.* do we need some other database / table that records what people think of each recipe
-.* or just a chef + approver system to get things in to the mater cookbook 
-* may want to standardize on a set of units that are approved and those that are verboten as well as standard aliases in the latex
-.+ cups
-.+ liters
-.+ Tablespoons
-.+ Teaspoons
-.- pinches
-.- to taste
-.- pecs
-.+ lbs
-.+ grams
-.* 
+* must figure out how to register approval -- what sort of criteria are important to get  
+  * do we need some other database / table that records what people think of each recipe
+  * or just a chef + approver system to get things in to the mater cookbook 
+* may want to standardize on a set of units that are approved and those that are verboten as well as standard aliases in the latex 
+  + cups
+  + liters
+  + Tablespoons
+  + Teaspoons
+  - pinches
+  - to taste
+  - pecs
+  + lbs
+  + grams
+  * 
 * how to reference other recipes from recipes
 * support for multiple page recipes, 
-* # of columns to use in the style
-.+ 1
-.- 2
+* \# of columns to use in the style
+  + 1
+  - 2
 * how to organize the compilations 
 * naming conventions -- how do we make a fun hyperlinked index 
 * what sort of ways do we want to look up recipes in the final product?
