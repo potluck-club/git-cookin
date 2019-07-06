@@ -1,4 +1,5 @@
 # git-cookin
+====
 :shallow_pan_of_food::man_cook::woman_cook::dash:
 
 ## Why 
@@ -30,7 +31,7 @@ to be included in the final binding, as such we will discuss some (probably mult
      * stylistically lets veer towards many smaller steps in list form
    * estimated servings?
    * estimated time (total, elapsed, active)
-   * commentary and [flavor text]( "not neccessarily about the actual flavor")
+   * commentary and [flavor text](#git-cookin "not neccessarily about the actual flavor")
    * required equipment (desired, necessary)
    * date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
    * source of inspiration / credit?
@@ -68,4 +69,4 @@ to be included in the final binding, as such we will discuss some (probably mult
 * standards for how we cite inspiration 
 * how do we want to support scaling recipes
 * how do we best refer to units in pre list and in steps
-* terminology disambiguation `c.f.` flask
+* terminology [disambiguation](#git-cookin "c.f. flask")
