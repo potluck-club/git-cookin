@@ -1,5 +1,5 @@
 # git-cookin
-:shallow_pan_of_food::plate_with_food::man_cook::woman_cook::dash:
+:shallow_pan_of_food::man_cook::woman_cook::dash:
 
 ## Why 
 
