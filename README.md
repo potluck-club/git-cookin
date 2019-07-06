@@ -4,7 +4,7 @@
 ## Why 
 
 A repository dedicated to preserving the best flavors of 
-[potluck club]("known aliases GOT potluck, Naptime potluck"),
+[potluck club]( "known aliases GOT potluck, Naptime potluck"),
 for likely eventual transoformation into some physical entity.
 
 ## Ingredients
@@ -30,7 +30,7 @@ to be included in the final binding, as such we will discuss some (probably mult
      * stylistically lets veer towards many smaller steps in list form
    * estimated servings?
    * estimated time (total, elapsed, active)
-   * commentary and [flavor text]("not neccessarily about the actual flavor")
+   * commentary and [flavor text]( "not neccessarily about the actual flavor")
    * required equipment (desired, necessary)
    * date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
    * source of inspiration / credit?
@@ -66,3 +66,6 @@ to be included in the final binding, as such we will discuss some (probably mult
 * what sorts of files / builds should be more public -- ie how to share to others outside of potluck with a link for read? or 
 * assume that this repository could be public at any time
 * standards for how we cite inspiration 
+* how do we want to support scaling recipes
+* how do we best refer to units in pre list and in steps
+* terminology disambiguation `c.f.` flask
