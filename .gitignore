@@ -1,0 +1,20 @@
+# ignores (La)TeX:
+*.log
+*.aux
+*.toc
+# Lists:
+*.lof
+*.lot
+# Index:
+*.idx
+*.ind
+*.ilg
+# hyperref:
+*.out
+# other
+*.ps
+*.dvi
+*.tex~
+*.synctex.gz
+# Mac finder files and hidden folders
+.DS_Store
