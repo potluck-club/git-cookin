@@ -10,7 +10,8 @@ One path for all the images will get found by the tex
   * \*.jpg
   * ~~\*.png~~
   * ~~\*.gif~~
-  * ...
+  * ~~tiff~~ 
+  * \*.eps
 * Strip EXIF information
 
 
