@@ -17,7 +17,7 @@ to be included in the final binding, as such we will discuss some (probably mult
 
 ## Steps
 
-1. dump recipe text
+1. dump recipe text into tex file
 1. identify important sections
    * title
    * author
@@ -34,7 +34,7 @@ to be included in the final binding, as such we will discuss some (probably mult
    * required equipment (desired, necessary)
    * date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
    * source of inspiration / credit?
-1. move info into tex file 
+1. organize accordingly and check the tex compiles
 
 --- 
 
