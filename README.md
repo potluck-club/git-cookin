@@ -63,8 +63,8 @@ to be included in the final binding, as such we will discuss some (probably mult
 * how to organize the compilations 
 * naming conventions -- how do we make a fun hyperlinked index 
 * what sort of ways do we want to look up recipes in the final product?
-* what sorts of files / builds should be more public -- ie how to share to others outside of potluck with a link for read? or 
-* assume that this repository could be public at any time
+* what sorts of files / builds should be more public -- ie how to share to others outside of potluck with a link for read? --> stored individual recipe pdfs as well?
+* assume this repository is public at all times
 * standards for how we cite inspiration 
 * how do we want to support scaling recipes
 * how do we best refer to units in pre list and in steps
