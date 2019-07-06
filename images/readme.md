@@ -1,3 +1,18 @@
-# directory for images 
+# images go here
 
-splitting out will allow sparse checkouts if we need to light-weight the images -- however may be better to instead just keep them next to the recipes. 
+One path for all the images will get found by the tex 
+
+## inforamation
+* File size limitation ? 
+* File extensions
+  * \*.pdf
+  * \*.jpeg
+  * \*.jpg
+  * ~~\*.png~~
+  * ~~\*.gif~~
+  * ...
+* Strip EXIF information
+
+
+## Fun photo help FAQ
+* nothing here for now 
