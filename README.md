@@ -20,21 +20,21 @@ to be included in the final binding, as such we will discuss some (probably mult
 
 1. dump recipe text
 1. identify important sections
- * title
- * author
-  * this shouldn't need an example...
- * tags
-  * `e.g.` : kosher, meat, dairy, vegetarian, vegan, allergen, dessert, main, side, vegetable, cuisine of origin ...  
- * ingredients
-  * with quantities or ranges 
- * steps
-  * stylistically lets veer towards many smaller steps in list form
- * estimated servings?
- * estimated time (total, elapsed, active)
- * commentary and [flavor text]("not neccessarily about the actual flavor")
- * required equipment (desired, necessary)
- * date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
- * source of inspiration / credit?
+   * title
+   * author
+     * this shouldn't need an example...
+   * tags
+     * `e.g.` : kosher, meat, dairy, vegetarian, vegan, allergen, dessert, main, side, vegetable, cuisine of origin ...  
+   * ingredients
+     * with quantities or ranges 
+   * steps
+     * stylistically lets veer towards many smaller steps in list form
+   * estimated servings?
+   * estimated time (total, elapsed, active)
+   * commentary and [flavor text]("not neccessarily about the actual flavor")
+   * required equipment (desired, necessary)
+   * date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
+   * source of inspiration / credit?
 1. move info into tex file 
 
 --- 
