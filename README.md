@@ -41,9 +41,10 @@ to be included in the final binding, as such we will discuss some (probably mult
 ## discussion of further requirements
 * must be able to compile individual recipes with minimal hassle
 * must have full list of dependencies to build recipes on their own
-* must figure out how to register approval -- what sort of criteria are important to get  
+* must figure out how to register approval -- what sort of criteria are important to get 
   * do we need some other database / table that records what people think of each recipe
   * or just a chef + approver system (codeowners?) to get things in to the master cookbook
+  * for starters recipes will be by request? -- in which case things are more or less pre-approved... however eventually?
 * may want to standardize on a set of units that are approved and those that are verboten as well as standard aliases in the latex 
   + cups
   + liters
