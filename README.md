@@ -5,7 +5,7 @@
 
 A repository dedicated to preserving the best flavors of 
 [potluck club](#git-cookin "known aliases GOT potluck, Naptime potluck"),
-for likely eventual transoformation into physical entities.
+for likely eventual transformation into physical book form henceforth referred to as a cookbook.
 
 ## Ingredients
 
