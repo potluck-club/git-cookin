@@ -1,5 +1,4 @@
 # git-cookin
-====
 :shallow_pan_of_food::man_cook::woman_cook::dash:
 
 ## Why 
