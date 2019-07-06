@@ -56,7 +56,7 @@ to be included in the final binding, as such we will discuss some (probably mult
   + grams
   * 
 * how to reference other recipes from recipes
-* support for multiple page recipes, 
+* support for multiple page recipes, no support for multiple recipes on a page
 * \# of columns to use in the style
   + 1
   - ~~2~~
