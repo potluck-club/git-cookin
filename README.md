@@ -23,9 +23,11 @@ to be included in the final binding, as such we will discuss some (probably mult
    * author
      * this shouldn't need an example...
    * tags
-     * meal grouping: meat, dairy, pareve, vegetarian, dessert, side, vegetable, ...
-     * allergen: pork, nuts, shrimp, lentils, chickpeas, vegan, ...
+     * course: appetizer, main, dessert, side, drink, ...
+     * type: meat, dairy, vegetarian, kosher, etc. ...
+     * allergen: nuts (specify), shrimp, lentils, chickpeas, vegan, ...
      * cuisine: french, american, chinese, thai, ... 
+     * other: TBD
    * ingredients
      * with quantities or ranges 
    * steps
@@ -33,8 +35,8 @@ to be included in the final binding, as such we will discuss some (probably mult
    * estimated servings?
    * estimated time (total, elapsed, active)
    * commentary and [flavor text](#git-cookin "not neccessarily about the actual flavor")
-   * required equipment (desired, necessary)
-   * date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
+   * required equipment (necessary, desired)
+   * date first brought to potluck (or `BGC` if before git-cookin and date not available) and the theme of that day if applicable
    * source of inspiration / credit?
 1. organize accordingly and check the tex compiles
 
