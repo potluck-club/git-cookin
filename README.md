@@ -69,16 +69,23 @@ to be included in the final binding, as such we will discuss some (probably mult
   + grams
   * 
 * how to reference other recipes from recipes
-* support for multiple page recipes, no support for multiple recipes on a page
+* support for multiple page recipes, no support for multiple recipes on a page in stylefile
+  * multi-page recipes should compile without author having to mess with things
 * \# of columns to use in the style
   + 1
   - ~~2~~
 * how to organize the compilations 
 * naming conventions -- how do we make a fun hyperlinked index 
 * what sort of ways do we want to look up recipes in the final product?
+  * hyperlinked index?
+  * hyperlinked glossary from recipes?
+  * TOC arranged by ... author? course? other?
+  * how does this change for sub-collections?
 * what sorts of files / builds should be more public -- ie how to share to others outside of potluck with a link for read? --> stored individual recipe pdfs as well?
 * assume this repository is public at all times
 * standards for how we cite inspiration: themes, thoughts, and authors
 * how do we want to support scaling recipes -- and unit conversion
+  * no support for scaling
+  * alternately, compile-time flag to scale all recipes for n people? this might be out of scope for now
 * how do we best refer to units in pre list and in steps
 * terminology [disambiguation](#git-cookin "c.f. flask")
