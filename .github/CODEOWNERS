@@ -1,0 +1,6 @@
+
+.github/CODEOWNERS @dfudenb @kunalsahasrabuddhe
+
+# everyone is codeowner on their subdir of recipes
+recipes/dfudenb/** @dfudenb
+recipes/kunalsahasrabuddhe/** @kunalsahasrabuddhe
