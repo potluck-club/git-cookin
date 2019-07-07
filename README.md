@@ -44,7 +44,15 @@ to be included in the final binding, as such we will discuss some (probably mult
 
 ## discussion of further requirements
 * must be able to compile individual recipes with minimal hassle
+  * everything will be kept within TeX where possible
+  * functionality not available within TeX will be built into the makefile using UNIX utilities
+  * compilation of individual recipes or collections of recipes should be handled through the makefile
+  * the makefile should be straightforward to use, with a clear and well-broken-down README (possibly within this README)
+  * Keep It Stimple, Stupid: if use of an additional language seems necessary, consider whether
+    the requested feature is actually within scope of this project
 * must have full list of dependencies to build recipes on their own
+  * dependencies will be clearly listed for all relevant OSs
+  * if order of operations matters, a README (possibly within this README) will be provided for installation of such dependencies
 * must figure out how to register approval -- what sort of criteria are important to get 
   * do we need some other database / table that records what people think of each recipe
   * or just a chef + approver system (codeowners?) to get things in to the master cookbook
