@@ -47,8 +47,9 @@ to be included in the final binding, as such we will discuss some (probably mult
   * everything will be kept within TeX where possible
   * functionality not available within TeX will be built into the bakefile using UNIX utilities
   * compilation of individual recipes or collections of recipes should be handled through the bakefile
-  * the bakefile should be straightforward to use, with a clear and well-broken-down README (possibly within this README)
-  * Keep It Simple, Stupid: for additional
+  * the bakefile should be straightforward to use, with a clear and well-broken-down readme 
+(possibly within this readme)
+  * Keep It Simple, Stupid: if additional functionality is required, reconsider project scope
     the requested feature is actually within scope of this project
 * must have full list of dependencies to build recipes on their own
   * dependencies will be clearly listed for all relevant OSs
