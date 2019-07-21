@@ -23,9 +23,11 @@ to be included in the final binding, as such we will discuss some (probably mult
    * author
      * this shouldn't need an example...
    * tags
-     * meal grouping: meat, dairy, pareve, vegetarian, dessert, side, vegetable, ...
-     * allergen: pork, nuts, shrimp, lentils, chickpeas, vegan, ...
+     * course: appetizer, main, dessert, side, drink, ...
+     * classification: meat, dairy, vegetarian, vegan, kosher, ...
+     * allergen: nuts (specify), shrimp, lentils, chickpeas, ...
      * cuisine: french, american, chinese, thai, ... 
+     * other: no planned support 
    * ingredients
      * with quantities or ranges 
    * steps
@@ -33,8 +35,8 @@ to be included in the final binding, as such we will discuss some (probably mult
    * estimated servings?
    * estimated time (total, elapsed, active)
    * commentary and [flavor text](#git-cookin "not neccessarily about the actual flavor")
-   * required equipment (desired, necessary)
-   * date first brought to potluck (or `BGC` if before git-cookin) and the theme of that day if applicable
+   * required equipment (necessary, desired)
+   * date first brought to potluck (or `BGC` if before git-cookin and date not available) and the theme of that day if applicable
    * source of inspiration / credit?
 1. organize accordingly and check the tex compiles
 
@@ -42,7 +44,15 @@ to be included in the final binding, as such we will discuss some (probably mult
 
 ## discussion of further requirements
 * must be able to compile individual recipes with minimal hassle
+  * everything will be kept within TeX where possible
+  * functionality not available within TeX will be built into the bakefile using UNIX utilities
+  * compilation of individual recipes or collections of recipes should be handled through the bakefile
+  * the bakefile should be straightforward to use, with a clear and well-broken-down readme 
+(possibly within this readme)
+  * Keep It Simple, Stupid: if additional functionality is required, reconsider project scope
+    the requested feature is actually within scope of this project
 * must have full list of dependencies to build recipes on their own
+  * dependencies will be clearly listed for all relevant OSs
 * must figure out how to register approval -- what sort of criteria are important to get 
   * do we need some other database / table that records what people think of each recipe
   * or just a chef + approver system (codeowners?) to get things in to the master cookbook
@@ -59,16 +69,21 @@ to be included in the final binding, as such we will discuss some (probably mult
   + grams
   * 
 * how to reference other recipes from recipes
-* support for multiple page recipes, no support for multiple recipes on a page
+* support for multiple page recipes, no support for multiple recipes on a page in stylefile
 * \# of columns to use in the style
   + 1
   - ~~2~~
 * how to organize the compilations 
 * naming conventions -- how do we make a fun hyperlinked index 
 * what sort of ways do we want to look up recipes in the final product?
+  * hyperlinked index
+  * hyperlinked glossary from recipes at a later date?
+  * TOC arranged by chapter based on master bakefile
+  * how does this change for sub-collections?
 * what sorts of files / builds should be more public -- ie how to share to others outside of potluck with a link for read? --> stored individual recipe pdfs as well?
 * assume this repository is public at all times
 * standards for how we cite inspiration: themes, thoughts, and authors
 * how do we want to support scaling recipes -- and unit conversion
+  * no support for scaling
 * how do we best refer to units in pre list and in steps
 * terminology [disambiguation](#git-cookin "c.f. flask")
